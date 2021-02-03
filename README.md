@@ -1,4 +1,6 @@
-## SimpleShapes for P5.js ## by An Duong
+## SimpleShapes for P5.js
+
+by An Duong
 
 
 
